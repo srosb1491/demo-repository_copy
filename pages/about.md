@@ -12,20 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
-
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## About Psychiana and Frank Bruce Robinson
+This collection is about Frank Bruce Robinson.
+Moved by a vision in which he saw himself as the head of a new religion, Frank Bruce Robinson established Psychiana soon after moving to Moscow, Idaho, in 1928-1929. Once established, word about the religion spread quickly, primarily through advertisements Robinson placed in newspapers and magazines. Within the first year more than 600,000 students in 67 countries were receiving his printed lessons. Robinson’s launching of Psychiana could not have been better timed. The Great Depression provided a ready-made audience eager to grasp onto his message of “health, wealth, and prosperity” achieved by positive affirmations and self help.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
